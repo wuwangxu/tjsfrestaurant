@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".OrderActivity">
+
+    <TextView
+        android:id="@+id/qstextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="学号"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="132dp" />
+    <TextView
+        android:id="@+id/qctextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="订单号"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="132dp" />
+    <TextView
+        android:id="@+id/qttextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="订单时间"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="132dp" />
+    <TextView
+        android:id="@+id/qmtextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="订单总价"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="132dp" />
+    <TextView
+        android:id="@+id/qntextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="取货号"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="132dp" /> 你
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="订单菜品："/>
+    <ListView
+        android:id="@+id/ordersList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></ListView>
+</LinearLayout>

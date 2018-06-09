@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [com.android.support:support-v4:21.0.3] D:\Program Files (x86)\Androidstudio\gradle\gradle-3.3\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\219d882bb593d574065cb6200c5217ff\AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] D:\Program Files (x86)\Androidstudio\gradle\gradle-3.3\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0c6bfd750112b66a21a4cccbf90739c5\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml
+		INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml
+		INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml
+		INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.3] D:\Program Files (x86)\Androidstudio\gradle\gradle-3.3\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\219d882bb593d574065cb6200c5217ff\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] D:\Program Files (x86)\Androidstudio\gradle\gradle-3.3\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\219d882bb593d574065cb6200c5217ff\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] D:\Program Files (x86)\Androidstudio\gradle\gradle-3.3\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0c6bfd750112b66a21a4cccbf90739c5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] D:\Program Files (x86)\Androidstudio\gradle\gradle-3.3\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0c6bfd750112b66a21a4cccbf90739c5\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml
+		INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml
+		INJECTED from D:\demo\3\myApp\src\main\AndroidManifest.xml
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:11:5-84
+	android:name
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:11:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:15:22-77
+application
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:17:5-44:19
+MERGED from [com.android.support:support-v4:21.0.3] D:\Program Files (x86)\Androidstudio\gradle\gradle-3.3\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\219d882bb593d574065cb6200c5217ff\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] D:\Program Files (x86)\Androidstudio\gradle\gradle-3.3\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\219d882bb593d574065cb6200c5217ff\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] D:\Program Files (x86)\Androidstudio\gradle\gradle-3.3\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0c6bfd750112b66a21a4cccbf90739c5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] D:\Program Files (x86)\Androidstudio\gradle\gradle-3.3\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\0c6bfd750112b66a21a4cccbf90739c5\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:19:9-42
+	android:allowBackup
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:21:9-68
+activity#com.example.myapp.MainActivity
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:22:9-24:48
+	android:label
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:23:13-41
+activity#com.example.myapp.WelcomePage
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:25:9-27:86
+	android:theme
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:27:13-83
+	android:name
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:26:13-40
+activity#com.example.myapp.SelectTableNumberActivity
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:28:19-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:32:27-74
+activity#com.example.myapp.SubmitActivity
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:35:9-37:61
+	android:label
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:37:13-58
+	android:name
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:36:13-43
+activity#com.example.myapp.OrderActivity
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:38:9-40:69
+	android:label
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:40:13-57
+	android:name
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:39:13-42
+activity#com.example.myapp.OrderQueryActivity
+ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:41:9-43:74
+	android:label
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:43:13-62
+	android:name
+		ADDED from D:\demo\3\myApp\src\main\AndroidManifest.xml:42:13-47

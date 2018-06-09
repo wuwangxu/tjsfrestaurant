@@ -1,0 +1,143 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\demo\\3\\myApp\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\demo\\3\\myApp\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\demo\\3\\myApp\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\demo\\3\\myApp\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\demo\\3\\myApp\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\demo\\3\\myApp\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "310",
+                        "endColumns": "57",
+                        "endOffsets": "363"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\demo\\3\\myApp\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Program Files (x86)\\Androidstudio\\gradle\\gradle-3.3\\caches\\transforms-1\\files-1.1\\constraint-layout-1.1.0.aar\\0c6bfd750112b66a21a4cccbf90739c5\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,11,12,13,14,15,19,20,21,22,25,26,29,32,33,34,35,36,39,42,43,44,45,50,53,56,57,58,63,64,65,68,71,72,75,78,81,84,85,88,91,92,97,98,103,106,109,110,111,112,113,114,115,116,117,118",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,407,455,507,568,614,741,802,862,932,1065,1133,1262,1388,1450,1515,1583,1650,1773,1898,1965,2030,2095,2276,2397,2518,2584,2651,2861,2930,2996,3121,3247,3314,3440,3567,3692,3819,3884,4010,4133,4198,4406,4473,4653,4773,4893,4958,5020,5082,5144,5203,5263,5324,5385,5444",
+                        "endLines": "2,10,11,12,13,14,18,19,20,21,24,25,28,31,32,33,34,35,38,41,42,43,44,49,52,55,56,57,62,63,64,67,70,71,74,77,80,83,84,87,90,91,96,97,102,105,108,109,110,111,112,113,114,115,116,117,125",
+                        "endColumns": "60,11,47,51,60,45,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11",
+                        "endOffsets": "111,402,450,502,563,609,736,797,857,927,1060,1128,1257,1383,1445,1510,1578,1645,1768,1893,1960,2025,2090,2271,2392,2513,2579,2646,2856,2925,2991,3116,3242,3309,3435,3562,3687,3814,3879,4005,4128,4193,4401,4468,4648,4768,4888,4953,5015,5077,5139,5198,5258,5319,5380,5439,5779"
+                    }
+                },
+                {
+                    "source": "D:\\demo\\3\\myApp\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,3,4,6,8,9,7",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "156,59,102,210,326,390,260",
+                        "endColumns": "52,41,52,48,62,72,64",
+                        "endOffsets": "204,96,150,254,384,458,320"
+                    },
+                    "to": {
+                        "startLines": "132,133,134,135,136,137,138",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "11716,11769,11811,11864,11913,11976,12049",
+                        "endColumns": "52,41,52,48,62,72,64",
+                        "endOffsets": "11764,11806,11859,11908,11971,12044,12109"
+                    }
+                },
+                {
+                    "source": "D:\\demo\\3\\myApp\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "130,131",
+                        "startColumns": "4,4",
+                        "startOffsets": "11602,11660",
+                        "endColumns": "57,55",
+                        "endOffsets": "11655,11711"
+                    }
+                },
+                {
+                    "source": "D:\\demo\\3\\myApp\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "139,146",
+                        "startColumns": "4,4",
+                        "startOffsets": "12114,12405",
+                        "endLines": "145,148",
+                        "endColumns": "12,12",
+                        "endOffsets": "12400,12560"
+                    }
+                }
+            ]
+        }
+    ]
+}

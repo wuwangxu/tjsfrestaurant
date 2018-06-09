@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SubmitActivity">
+
+    <TextView
+        android:id="@+id/customerNumberTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="学号"
+        tools:layout_editor_absoluteX="112dp"
+        tools:layout_editor_absoluteY="95dp" />
+
+    <ListView
+        android:id="@+id/foodsListView"
+        android:layout_width="368dp"
+        android:layout_height="437dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="122dp" />
+
+    <TextView
+        android:id="@+id/totalTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="总价"
+        tools:layout_editor_absoluteX="112dp"
+        tools:layout_editor_absoluteY="525dp" />
+
+    <Button
+        android:id="@+id/submit_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="确定"
+        tools:layout_editor_absoluteX="73dp"
+        tools:layout_editor_absoluteY="28dp" />
+</LinearLayout>

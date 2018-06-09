@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    >
+
+    <EditText
+        android:id="@+id/edit_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:minWidth="30dp"
+        android:gravity="center"
+        android:inputType="number"
+        android:maxWidth="50dp"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/edit_number"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="38dp"
+        android:text="请您输入您的学号"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit_number"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="38dp"
+        android:text="确定" />
+
+</RelativeLayout>
